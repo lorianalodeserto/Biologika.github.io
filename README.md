@@ -9,7 +9,9 @@ Benvenuti nel repository di **Biologika**, un progetto accademico realizzato da 
 - **Distribuzione:** Esclusivamente online (D2C - Direct to Consumer).
 - **Target:** Consumatori attenti (35-65 anni) e nuove generazioni sensibili all'ambiente.
 
+
 Goal:
+
 - Realizzare almeno 4 diverse homepage per la piattaforma Biologika da presentare al cliente, le quali rispecchino il più possibile i valori della cooperativa
 - Realizzare una serie di proposte pratiche per avvicinare ai prodotti di Biologica anche i più giovani (social media, video promozionale, ecc.)
 - Individuare una strategia per far «assaggiare» i propri prodotti a distanza
@@ -63,5 +65,6 @@ Ogni variante rispetta i principi di:
 ├── styles.css          # Foglio di stile Variante 2
 └── res/                # Risorse grafiche (Logo, immagini, favicon)
 ```
+
 
 
