@@ -2,17 +2,34 @@
 Benvenuti nel repository di **Biologika**, un progetto accademico realizzato da un team di 4 persone. Il progetto esplora la creazione di un e-commerce specializzato in prodotti agricoli biologici, con un focus particolare sulla sostenibilità, la trasparenza della filiera e l'identità di marca.
 
 ## Traccia
-- Biologika è una cooperativa creata da 8 giovani laureati, che hanno deciso di lasciare la città, per andare a vivere in campagna e dedicarsi all’agricoltura biologica.
-- Biologika è specializzata in prodotti biologici non deperibili, quali biscotti, miele, marmellate, ecc.    
-- L’intera produzione avviene senza aggiunta di prodotti chimici, conservanti sintetici o coloranti. Tutto proviene dalla terra della cooperativa o da agricoltori biologici vicini.   
-- I prodotti di Biologika vengono commercializzati esclusivamente online.
-- Il target è rappresentato da consumatori di età tra i 35 e i 65 anni, molto attenti alla qualità dei prodotti e all’impatto ambientale
-- Biologika vuole creare una pagina web, proponendo una strategia adatta a trasmettere i propri valori, il suo approccio di rispetto per l’ambiente e per la qualità dei prodotti. 
-- Si vuole creare una strategia di comunicazione social attrattiva non solo per il target di riferimento, ma anche per persone più giovani. 
-- Si vuole creare un modo per far sentire la bontà dei prodotti anche a chi è distante e compra online 
+**Biologika** è una cooperativa agricola nata dall'iniziativa di 8 giovani laureati che hanno scelto di tornare alla terra. Il modello di business si basa su:
+
+- **Prodotti:** Specialità bio non deperibili (biscotti, miele, marmellate, farine).
+- **Etica:** Produzione senza chimica, conservanti sintetici o coloranti.
+- **Distribuzione:** Esclusivamente online (D2C - Direct to Consumer).
+- **Target:** Consumatori attenti (35-65 anni) e nuove generazioni sensibili all'ambiente.
+
+Goal:
 - Realizzare almeno 4 diverse homepage per la piattaforma Biologika da presentare al cliente, le quali rispecchino il più possibile i valori della cooperativa
 - Realizzare una serie di proposte pratiche per avvicinare ai prodotti di Biologica anche i più giovani (social media, video promozionale, ecc.)
 - Individuare una strategia per far «assaggiare» i propri prodotti a distanza
+
+---
+
+## Strategie di Comunicazione e User Experience
+Oltre allo sviluppo tecnico, il team ha ideato soluzioni per rispondere alle sfide della traccia:
+
+### 1. Esperienza Sensoriale a Distanza
+Per far "assaggiare" i prodotti digitalmente, il sito punta su:
+- **Storytelling Visivo:** Uso di fotografie che esaltano i prodotti.
+- **Trasparenza Totale:** Pagine dedicate all'impegno etico (`commitment.html`) per costruire fiducia.
+- **E-book di Ricette:** Un magnete per contatti che offre valore immediato e suggerimenti d'uso.
+
+### 2. Coinvolgimento dei Giovani
+- **Social Strategy:** Link diretti a Instagram e Facebook con un linguaggio visuale moderno. La strategia include:
+    - **Post:** Meme a tema bio e Quiz interattivi per creare community.
+    - **Storie:** Sessioni di Q&A con i produttori e video "dietro le quinte" della produzione con prove d'assaggio per mostrare la freschezza dei prodotti.
+- **Minimalismo Tecnico:** Navigazione rapida, intuitiva e ottimizzata per l'uso da mobile.
 
 ---
 
@@ -45,3 +62,4 @@ Ogni variante rispetta i principi di:
 ├── styles.css          # Foglio di stile Variante 2
 └── res/                # Risorse grafiche (Logo, immagini, favicon)
 ```
+
