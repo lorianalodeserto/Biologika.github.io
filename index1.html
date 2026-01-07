@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Biologika | Prodotti Biologici</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <!-- Top bar -->
+  <div class="topbar">
+    <div class="container topbar__inner">
+      <p>Spedizione gratuita da 39€ • Solo prodotti selezionati e certificati</p>
+      <a class="topbar__link" href="#">Accedi</a>
+    </div>
+  </div>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="container header__inner">
+      <a class="brand" href="#">
+        <img class="brand__logo" src="logo-biologika.png" alt="Logo Biologika" />
+      </a>
+
+      <nav class="nav">
+        <a href="#categorie">Categorie</a>
+        <a href="#prodotti">In evidenza</a>
+        <a href="#chi-siamo">Chi siamo</a>
+        <a class="nav__cta" href="#">Carrello</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <main>
+    <section class="hero">
+      <div class="container hero__inner">
+        <div class="hero__text">
+          <span class="badge">ONLY ORGANIC</span>
+          <h1>Prodotti biologici buoni, veri e sostenibili.</h1>
+          <p>
+            Marmellate bio, grano, farina, pane, biscotti, miele e molto altro:
+            qualità artigianale e ingredienti puliti, direttamente a casa tua.
+          </p>
+
+          <div class="hero__actions">
+            <a class="btn btn--primary" href="#prodotti">Scopri i prodotti</a>
+            <a class="btn btn--ghost" href="#chi-siamo">Perché Biologika</a>
+          </div>
+
+          <div class="hero__stats">
+            <div class="stat">
+              <strong>100%</strong><span>Biologico</span>
+            </div>
+            <div class="stat">
+              <strong>Filiera</strong><span>Selezionata</span>
+            </div>
+            <div class="stat">
+              <strong>Spedizione</strong><span>Rapida</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="hero__card">
+          <h3>Offerta del mese</h3>
+          <p class="muted">Box colazione bio</p>
+          <ul class="checklist">
+            <li>Miele millefiori</li>
+            <li>Biscotti integrali</li>
+            <li>Marmellata di fragole</li>
+          </ul>
+          <a class="btn btn--secondary" href="#">Aggiungi al carrello</a>
+        </div>
+      </div>
+
+      <div class="hero__wave" aria-hidden="true"></div>
+    </section>
+
+    <!-- Categorie -->
+    <section class="section" id="categorie">
+      <div class="container">
+        <div class="section__head">
+          <h2>Categorie</h2>
+          <p class="muted">Trova subito ciò che cerchi</p>
+        </div>
+
+        <div class="grid grid--4">
+          <a class="chipcard" href="#">
+            <h3>Marmellate bio</h3>
+            <p>Frutta selezionata, senza compromessi.</p>
+          </a>
+          <a class="chipcard" href="#">
+            <h3>Grano</h3>
+            <p>Chicchi di qualità, dalla terra alla tavola.</p>
+          </a>
+          <a class="chipcard" href="#">
+            <h3>Farina</h3>
+            <p>Integrale e raffinata, per ogni ricetta.</p>
+          </a>
+          <a class="chipcard" href="#">
+            <h3>Pane</h3>
+            <p>Lievitazioni naturali e profumo autentico.</p>
+          </a>
+          <a class="chipcard" href="#">
+            <h3>Biscotti</h3>
+            <p>Dolcezza semplice, ingredienti puliti.</p>
+          </a>
+          <a class="chipcard" href="#">
+            <h3>Miele</h3>
+            <p>Da apicoltura responsabile.</p>
+          </a>
+          <a class="chipcard" href="#">
+            <h3>Box & Regali</h3>
+            <p>Selezioni pronte da regalare.</p>
+          </a>
+          <a class="chipcard" href="#">
+            <h3>Novità</h3>
+            <p>Nuovi arrivi ogni settimana.</p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Prodotti in evidenza -->
+    <section class="section section--alt" id="prodotti">
+      <div class="container">
+        <div class="section__head">
+          <h2>Prodotti in evidenza</h2>
+          <p class="muted">Esempi di card prodotto per la home-page</p>
+        </div>
+
+        <div class="grid grid--3">
+          <article class="product">
+            <div class="product__img" aria-hidden="true"></div>
+            <div class="product__body">
+              <h3>Marmellata Bio Fragole</h3>
+              <p class="muted">Vasetto 240g • Senza conservanti</p>
+              <div class="product__row">
+                <span class="price">€4,90</span>
+                <button class="btn btn--small">Aggiungi</button>
+              </div>
+            </div>
+          </article>
+
+          <article class="product">
+            <div class="product__img" aria-hidden="true"></div>
+            <div class="product__body">
+              <h3>Farina Integrale Bio</h3>
+              <p class="muted">1kg • Macinata a pietra</p>
+              <div class="product__row">
+                <span class="price">€3,20</span>
+                <button class="btn btn--small">Aggiungi</button>
+              </div>
+            </div>
+          </article>
+
+          <article class="product">
+            <div class="product__img" aria-hidden="true"></div>
+            <div class="product__body">
+              <h3>Miele Millefiori</h3>
+              <p class="muted">500g • 100% italiano</p>
+              <div class="product__row">
+                <span class="price">€7,50</span>
+                <button class="btn btn--small">Aggiungi</button>
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <div class="center">
+          <a class="btn btn--primary" href="#">Vai allo shop</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Chi siamo + Newsletter -->
+    <section class="section" id="chi-siamo">
+      <div class="container two-col">
+        <div class="card">
+          <h2>Chi è Biologika</h2>
+          <p class="muted">
+            Siamo un e-commerce di prodotti biologici selezionati: lavoriamo con piccoli produttori,
+            valorizziamo la stagionalità e riduciamo gli sprechi con packaging responsabile.
+          </p>
+          <div class="pillrow">
+            <span class="pill">Certificazioni</span>
+            <span class="pill">Filiera corta</span>
+            <span class="pill">Sostenibilità</span>
+          </div>
+        </div>
+
+        <div class="card card--accent">
+          <h2>Newsletter</h2>
+          <p class="muted">Ricette, offerte e nuovi arrivi (niente spam).</p>
+          <form class="form" action="#" method="post">
+            <label class="sr-only" for="email">Email</label>
+            <input id="email" name="email" type="email" placeholder="La tua email" required />
+            <button class="btn btn--secondary" type="submit">Iscriviti</button>
+          </form>
+          <p class="small muted">Cliccando “Iscriviti” accetti la privacy policy.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container footer__inner">
+      <div>
+        <h3>Biologika</h3>
+        <p class="muted">Only Organic • Dal 2023</p>
+      </div>
+
+      <div class="footer__links">
+        <a href="#categorie">Categorie</a>
+        <a href="#prodotti">Prodotti</a>
+        <a href="#chi-siamo">Chi siamo</a>
+        <a href="#">Contatti</a>
+      </div>
+    </div>
+
+    <div class="container footer__bottom">
+      <p class="small muted">© <span id="year"></span> Biologika • Project-work demo</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
