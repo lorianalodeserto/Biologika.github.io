@@ -32,8 +32,9 @@ Per far "assaggiare" i prodotti digitalmente, il sito punta su:
 - **Minimalismo Tecnico:** Navigazione rapida, intuitiva e ottimizzata per l'uso da mobile.
 
 ---
+## Sviluppo Tecnico
 
-## Tecnologie Utilizzate
+### Tecnologie Utilizzate
 Il progetto è stato sviluppato "Vanilla", ovvero senza l'uso di framework pesanti, per consolidare le basi dello sviluppo web:
 
 - **HTML5:** Struttura semantica per SEO e accessibilità.
@@ -43,7 +44,7 @@ Il progetto è stato sviluppato "Vanilla", ovvero senza l'uso di framework pesan
 
 ---
 
-## Principi adottati 
+### Principi adottati 
 Ogni variante rispetta i principi di:
 1. **Responsiveness:** I siti sono ottimizzati per mobile e desktop tramite Media Queries.
 2. **Accessibilità:** Utilizzo di tag semantici e attributi `aria-label` per le immagini e i pulsanti.
@@ -51,7 +52,7 @@ Ogni variante rispetta i principi di:
 
 ---
 
-## Struttura dei File
+### Struttura dei File
 ```text
 ├── index.html          # Homepage Variante 1
 ├── index1.html         # Homepage Variante 2
@@ -62,4 +63,5 @@ Ogni variante rispetta i principi di:
 ├── styles.css          # Foglio di stile Variante 2
 └── res/                # Risorse grafiche (Logo, immagini, favicon)
 ```
+
 
