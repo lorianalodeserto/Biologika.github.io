@@ -47,6 +47,15 @@ body {
     margin: 0;
 }
 
+h1 a {
+  text-decoration: none;
+  color: inherit; 
+}
+
+h1 a:hover {
+  text-decoration: none;
+}
+
 .header-social-icons a {
     color: var(--color-terra);
     font-size: 1.2em;
