@@ -30,7 +30,7 @@ a{
 
 /* Header */
 .header-alt{
-  background: rgba(244,241,236,.9);
+  background: white;
   border-bottom: 1px solid #ddd;
 }
 .header-alt__inner{
@@ -252,3 +252,4 @@ a{
     flex-wrap: wrap;
   }
 }
+
