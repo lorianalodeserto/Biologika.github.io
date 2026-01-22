@@ -56,17 +56,18 @@ Ogni variante rispetta i principi di:
 
 ### Struttura dei File
 ```text
-├── index.html          # Homepage Variante 1
-├── index1.html         # Homepage Variante 2
-├── index1.html         # Homepage Variante 3
-├── about.html          # Pagina "La nostra storia"
-├── commitment.html     # Pagina "Impegno Bio"
-├── blog.html           # Sezione articoli e ricette
-├── style.css           # Foglio di stile Variante 1
-├── styles.css          # Foglio di stile Variante 2
+├── index.html           # Homepage Variante 1
+├── index1.html          # Homepage Variante 2
+├── index1.html          # Homepage Variante 3
+├── about.html           # Pagina "La nostra storia"
+├── commitment.html      # Pagina "Impegno Bio"
+├── blog.html            # Sezione articoli e ricette
+├── style.css            # Foglio di stile Variante 1
+├── style1.css           # Foglio di stile Variante 2
 ├── style2.css           # Foglio di stile Variante 3
-└── res/                # Risorse grafiche (Logo, immagini, favicon)
+└── res/                 # Risorse grafiche (Logo, immagini, favicon)
 ```
+
 
 
 
