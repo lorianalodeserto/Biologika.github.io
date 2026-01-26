@@ -60,6 +60,7 @@ Ogni variante rispetta i principi di:
 ├── index.html           # Homepage Variante 1
 ├── index1.html          # Homepage Variante 2
 ├── index2.html          # Homepage Variante 3
+├── index3.html          # Homepage Variante 4
 ├── about.html           # Pagina "La nostra storia"
 ├── commitment.html      # Pagina "Impegno Bio"
 ├── blog.html            # Sezione articoli e ricette
@@ -68,6 +69,7 @@ Ogni variante rispetta i principi di:
 ├── style2.css           # Foglio di stile Variante 3
 └── res/                 # Risorse grafiche (Logo, immagini, favicon)
 ```
+
 
 
 
