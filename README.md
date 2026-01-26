@@ -12,7 +12,7 @@ Benvenuti nel repository di **Biologika**, un progetto accademico realizzato da 
 
 Goal:
 
-- Realizzare almeno 4 diverse homepage per la piattaforma Biologika da presentare al cliente, le quali rispecchino il più possibile i valori della cooperativa
+- Realizzare 4 diverse homepage per la piattaforma Biologika da presentare al cliente, le quali rispecchino il più possibile i valori della cooperativa
 - Realizzare una serie di proposte pratiche per avvicinare ai prodotti di Biologica anche i più giovani (social media, video promozionale, ecc.)
 - Individuare una strategia per far «assaggiare» i propri prodotti a distanza
 
@@ -26,6 +26,7 @@ Per far "assaggiare" i prodotti digitalmente, il sito punta su:
 - **Storytelling Visivo:** Uso di fotografie che esaltano i prodotti.
 - **Trasparenza Totale:** Pagine dedicate all'impegno etico (`commitment.html`) per costruire fiducia.
 - **E-book di Ricette:** Un magnete per contatti che offre valore immediato e suggerimenti d'uso.
+- **Box Degustazione:** Un mix dei prodotti più amati del mese.
 
 ### 2. Coinvolgimento dei Giovani
 - **Social Strategy:** Link diretti a Instagram e Facebook con un linguaggio visuale moderno. La strategia include:
@@ -67,6 +68,7 @@ Ogni variante rispetta i principi di:
 ├── style2.css           # Foglio di stile Variante 3
 └── res/                 # Risorse grafiche (Logo, immagini, favicon)
 ```
+
 
 
 
